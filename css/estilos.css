@@ -1,10 +1,16 @@
 body
 {
+    background: #37488b;
     color: #333 ;
     text-align: center;
     font-family: Arial;
     margin : 0;
     padding: 0 ;
+}
+
+#logo {
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera
@@ -38,5 +44,6 @@ body
 
 #post
 {
+    background: white;
     padding: 1em;
 }
